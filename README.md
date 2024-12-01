@@ -25,7 +25,3 @@ bash MESA_nasal_pressure.sh
 ### Contributing
 
 We welcome contributions! If you'd like to help improve DSENet, please submit a pull request with your changes.
-
-### License
-
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/eecdxu/DSENet/blob/main/LICENSE) file for details.
